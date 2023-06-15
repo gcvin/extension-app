@@ -1,0 +1,11 @@
+{
+  "ext_name": {
+    "message": "my extension"
+  },
+  "ext_desc": {
+    "message": "my extension desc"
+  },
+  "check_all":{
+   "message": "check all" 
+  }
+}

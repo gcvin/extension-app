@@ -1,0 +1,11 @@
+{
+  "ext_name": {
+    "message": "插件名"
+  },
+  "ext_desc": {
+    "message": "插件描述"
+  },
+  "check_all":{
+   "message": "全选"
+  }
+}
